@@ -11,24 +11,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
 
-    for fil in filer:
-        if fil.endswith(".txt"):        #we only use txt files
-            sang = open("""Sange/"""+fil, 'r')      #we open the files
-            s = sang.read().lower()                 #read the song, and make all letters lowercase
-            s = s.replace(",","")                   #remove commas
-            s = s.replace(" ","")                   #remove spaces
-            s = s.replace(".","")                   #remove punctuations
-            sang.close()                            #close the file
-            if "morgenerverdenvor" in s:    #the if and elifs is used to check if the song is "I morgen er verden vor" or "DAT62(1/2)80 Slagsang"
-                os.remove("""Sange/"""+fil) #remove them if they are either of those two songs
-            elif "fooogbar" in s:
-                os.remove("""Sange/"""+fil)
-            elif "morgen" in s and "verden" in s and "vor" in s:
-                os.remove("""Sange/"""+fil)
-            elif "foo" in s and "bar" in s and "automaten" in s:
-                os.remove("""Sange/"""+fil)
     path = sys.path[0]          #set the path to our current folder
-    os.system("""./check""")    #run the file check
     fil = None
     style = auxiliary.search_styles(style)      #check if the specified style exist
     if style == "hex":
@@ -47,12 +30,12 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             title = title.group(0).split('}')[0]        #get the part before }, which is the title
             if "%" in line0:
                 try:
-                    order = int(float(line0[line0.index("%")+1]))
+                    order = int(float(line0[line0.index("%")+1:]))
                 except ValueError:
                     order = sys.maxint
                     print("Misplaced % in file: " + fil)
                     import time
-                    time.sleep(4)
+                    time.sleep(3)
             else:
                 order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
