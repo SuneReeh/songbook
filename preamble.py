@@ -90,19 +90,24 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
 \\fancyhead{}
 \\fancyhead[CE,CO]{}
 \\fancyhead[RE,LO]{\\thepage}
-\\fancyfoot{}
-\pagestyle{fancy}\n""")
+\\fancyfoot{}\n""")
+    if twosided:
+        f.write("""\pagestyle{fancy}\n""")
     if """renew""" in style:
         f.write("""""" + style + """\n""")
     else:
-        f.write("""\\input{page_numbering}
-\\pagenumbering{""" + style + """}\n""")
+        f.write("""\\newcommand{\\countstyle}{""" + style + """}
+\\input{page_numbering}
+\\pagenumbering{shiftedpage}\n""")
     f.write("""\\begin{document}
 \\newcounter{temp}
-\\newcounter{temppage}\n""")          #continue preamble
+\\newcounter{temppage}
+\\newcounter{pageoffset}
+\\setcounter{page}{0}\n""")          #continue preamble
     if not empty:       #if empty is not specified start writing a front page
         f.write("""\\newgeometry{margin=.5cm,top=4cm,bottom=.5cm}
 \\thispagestyle{empty}
+\\addtocounter{pageoffset}{-1}
 \\centering
 \\phantom{test}
 \n""")          
@@ -129,7 +134,6 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
             f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+"""\\\\\\the\\year\n""")         #put the title for the songbook below the logo
         f.write("""\\end{center}\n\\restoregeometry""")
     f.write("""
-\\setcounter{page}{0}
 \\raggedright
 \\songpos{0}
 \\spenalty=-10
