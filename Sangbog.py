@@ -2,7 +2,7 @@
 import sys, os, getopt, re
 import preamble, style_tex, auxiliary
 from subprocess import call
-from random import shuffle, seed
+from random import shuffle, seed, randint
 current_version = sys.version_info
 
 
@@ -160,6 +160,9 @@ def main(argv):
     sort = False
     fixed = False
     random = False
+    
+    strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
+    seed(strSeed)
     try:
         opts, args = getopt.getopt(argv,"hucetp:s:n:l:Sfr",["help","unf","camp","empty","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
     except getopt.GetoptError:
@@ -198,7 +201,8 @@ def main(argv):
             random = True
         elif opt in ("--seed"):
             if random:
-                seed(arg)
+                strSeed = arg
+                seed(strSeed)
             else:
                 usage()
                 sys.exit()
@@ -213,6 +217,8 @@ def main(argv):
         else:
             print("There is already a style with that name.")
     create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
+    if random:
+        print("Seed used for shuffling: " + strSeed)
 
 
 if __name__=='__main__':
