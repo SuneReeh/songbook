@@ -7,7 +7,7 @@ current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random):
+def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, random):
     index = 1
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -22,7 +22,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random):
     elif style == "oct":
         style = "octX"
 
-    preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
+    preamble.create_preamble(unf, camp, name, style, logo, empty, twosided)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):
             sang = open("""Sange/"""+fil, 'r')
@@ -154,12 +154,13 @@ def main(argv):
     new_style = ""      #the new style to be defined
     unf = False         #if its for UNF or not
     empty = False       #if you want a front page or not
+    twosided = False       #if you want twosided for book print or not
     logo = ""           #the file containing the logo for the front page
     sort = False
     fixed = False
     random = False
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sfr",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed","random"])     
+        opts, args = getopt.getopt(argv,"hucetp:s:n:l:Sfr",["help","unf","camp","empty","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random"])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -186,6 +187,8 @@ def main(argv):
                 sys.exit()
             else:
                 empty = True
+        elif opt in ("-t","--twosided"):
+            twosided = True
         elif opt in ("-S","--sort"):
             sort = True
         elif opt in ("-f","--fixed"):
@@ -202,7 +205,7 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random)         #call to create sangbog
+    create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
 
 
 if __name__=='__main__':
