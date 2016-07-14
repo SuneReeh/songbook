@@ -161,8 +161,8 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, r
 
 
 def usage():
-    print("Usage: "+sys.argv[0]+" -p <used to define new pagenumbering style> -s <choose pagenumbering style> -n <name of sangbook> -l <file for logo, svg or png>")
-    print("Options: -c (if it is a camp) -u (if it is UNF) -e (if you do no want a front page) -S (if you want the songs to be sorted by title) -f (if you want the songs to be sorted by a fixed number)")
+    print("Usage: "+sys.argv[0]+" -p <used to define new pagenumbering style> -s <choose pagenumbering style> -n <name of songbook> -l <file for logo, svg or png>")
+    print("Options: -c (if it is a camp) -u (if it is UNF) -e (if you do no want a front page) -S (if you want the songs to be sorted by title) -f (if you want the songs to be sorted by a fixed number) -r (if you want the songs shuffled. Combines with -f to shuffle only the non-fixed songs) -t (twosided print intended for booklets) --seed (specify seed for -r)")
 
 def main(argv):
     name = ""           #name of the songbook
