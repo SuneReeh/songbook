@@ -177,7 +177,7 @@ def main(argv):
     strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
     seed(strSeed)
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sfr",["help","unf","camp","empty","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
+        opts, args = getopt.getopt(argv,"hucetp:s:n:l:Sfr",["help","unf","camp","empty","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
