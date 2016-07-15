@@ -143,7 +143,7 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
 \\vcpenalty=100
 \\cvpenalty=100
 \\ccpenalty=100
-\\interlinepenalty=120
+\\interlinepenalty=200
 \\setlength{\parindent}{1cm}
 \\begin{songs}{}
 \\setcounter{songnum}{0}
