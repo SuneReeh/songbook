@@ -4,10 +4,10 @@ by={Matematikrevyen 2008}
 ,
 cr={}]
 \beginverse
-I synes, at vi ik’ gavner meget
-vor’s fag er teoretisk...
+I synes, at vi ik' gavner meget
+vor's fag er teoretisk...
 \hspace{5em}og det er også sandt
-Men det I ik’ forstår
+Men det I ik' forstår
 er den følelse vi får
 når vi i teori kan løse alt
 løse alt...
@@ -15,37 +15,37 @@ løse alt...
 \endverse
 \beginverse
 Vi regner ikke for at redde verden
-Vi regner ikke for at blive rig’
-Vi elsker bare alt ved mat’matiken
-Det’ den verden, som vi godt vil være i
+Vi regner ikke for at blive rig'
+Vi elsker bare alt ved mat'matiken
+Det' den verden, som vi godt vil være i
 
 \endverse
 \beginverse
 Vi accepterer andre læser andet
-så vi kan læse vores mat’matik
+så vi kan læse vores mat'matik
 og opdage det smukkeste i verden
-brug’ den chance, som I andre aldrig fik
+brug' den chance, som I andre aldrig fik
 
 \endverse
 \beginverse
 Har I aldrig ladet log gå mod uendelig
 og set hvad vej at den nu egentlig gik
 Kan I ikke finde charmen ved en ligning
-Kan I se de smukke ting ved mat’matik
+Kan I se de smukke ting ved mat'matik
 
 \endverse
 \beginverse
 Kom lad os integrere alle udtryk
-og undersøg’ 1/x i nul
+og undersøg' 1/x i nul
 og undersøge alt med asymptoter
 finde ud af, hvad der er i dette hul
 
 \endverse
 \beginverse
-Vor’s sprog det er præcist og meget tyd’ligt
+Vor's sprog det er præcist og meget tyd'ligt
 og misforståelser de sker ej her
-og det er det, der gør, at mat’matikken
-er et fag, der kan nå så meget mer’
+og det er det, der gør, at mat'matikken
+er et fag, der kan nå så meget mer'
 
 \endverse
 \beginverse
@@ -57,10 +57,87 @@ den er måske svær...men den er din ven
 Vil I aldrig lade log gå mod uendelig
 forsøg selv om det bryder din etik
 Kan I ikke finde charmen ved en ligning
-Kan I se de smukke ting ved mat’matik
+Kan I se de smukke ting ved mat'matik
 læs nu blot på jeres fag
 men det sker nu nok en dag
-at I ser\ldots de smukke ting ved\ldots mat’matik\ldots
+at I ser\ldots de smukke ting ved\ldots mat'matik\ldots
 
 \endverse
 \endsong
+
+
+\beginsong{Induktionssang}[sr={Melodi: Kim Larsen og Bellami - Familien skal i skove}
+,
+by={Matematikrevyen 2015}
+,
+cr={}]
+\beginverse
+Det er efterår, jeg skal til Dis-eksamen
+Jeg har læst og læst, helt ifølge planen
+Snupper min cykel – af sted! Nu' der ingen vej tilbage
+Dugen, den er grøn, censor, hun nynner
+Hilser med hånden:
+\emph{Inge-Lise Brønner}
+Til tavlen går jeg hen, det' jo dér, hvor det hele, det begynder
+
+\endverse
+\beginverse
+Eksaminator spørger ind til induktion
+Så jeg si'r: ``Peanos ak-si-om''
+\endverse
+
+\beginverse
+Det har jeg brugt så mange gange før
+Og nu gør jeg det igen
+\emph{Det har han brugt så mange gange før
+Og nu gør han det igen}
+
+\endverse
+\beginverse
+Gælder det for $n$, så gør det ogs' for resten
+\emph{Ingen induktionsstart -- hør nu her, nu stopper festen}
+Hvorfor kan jeg ikk' bar' la' $n$'et flyve ud i det uendelig'?
+\emph{Åh! Dumme dreng!}
+
+\endverse
+\beginverse
+Antag $n$ er 1, for da må det gælde
+Jo, det er da rigtigt, nu skal du bare tælle
+Det kan jeg da sagtens: 1, 2, 3, 4, 5 og ælle, bælle
+\emph{Prøv nu at hold' fokus, og sig os så, min ven
+Hvordan går du fra $n$ til $n + 1$?}
+
+\endverse
+\beginverse
+Det har jo gjaldt for så mange andre $n$
+Så det gør det nok igen
+\emph{Det har jo gjaldt for så mange andre $n$
+Så det gør det nok igen}
+
+\endverse
+\beginverse
+Det er blevet sent, de skal votere
+Så mindes jeg med gru mine dumpekarakterer
+Håber sådan dette bli'r 02, eller måske endda 4
+Døren, den er lukket, gangene er øde
+Var det tilstræk'ligt, får jeg mon det røde?
+Tiden er gået, nu sker det, tilbage i lokalet
+Censor, hun siger:
+\emph{Ja, nu må du gerne gå
+Men vi ka' jo ikk' la' dig bestå}
+
+\endverse
+\beginverse
+Det har de sagt så mange gange før
+Derfor gør de det igen
+\emph{Det har vi sagt så mange gange før
+Derfor gør vi det igen}
+Det har de sagt så mange gange før
+Derfor gør de det igen
+\emph{Det har vi sagt så mange gange før}
+Derfor gør de/\emph{vi} det igen
+
+
+\endverse
+\endsong
+
