@@ -35,14 +35,14 @@ def fetch(entries, root):
                 if list_logo[len(list_logo)-1] in filer:
                     logo = list_logo[len(list_logo)-1]
                     entry[1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-                elif temp != "":
+                else:
                     entry[1].configure(highlightbackground="red", highlightcolor="red")
             else:
                 filer = os.listdir(".")
                 if temp in filer:
                     logo = temp
                     entry[1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-                else:
+                elif temp != "":
                     entry[1].configure(highlightbackground="red", highlightcolor="red")
         elif field == "Name:":
             name = entry[1].get()
