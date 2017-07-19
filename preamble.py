@@ -122,6 +122,8 @@ def create_preamble(author, name, style, logo, empty, twosided):
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
             else:
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
+        elif """.pdf""" in logo:
+            f.write("""\\mbox{\\includegraphics[width=\\textwidth]{"""+logo+"""}}\n""")
         f.write("""\\vspace{.5cm}
 \\begin{center}\n""")
         if name == "":
