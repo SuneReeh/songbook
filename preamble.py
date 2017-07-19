@@ -12,7 +12,7 @@ standard = ["arabic", "roman", "Roman", "alph", "Alph","binary","hex","oct"]
 
 
 
-def create_preamble(author, name, style, logo, empty):
+def create_preamble(author, name, style, logo, empty, twosided):
     if """.svg""" in logo:          #check if the logo is in svg format
         tempf = open(logo,'r')      #open the file for reading
         s = tempf.read()
