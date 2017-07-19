@@ -7,7 +7,7 @@ current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(author, name, style, logo, empty, twosided, sort, fixed, random):
+def create_songbook(author, name, style, logo, empty, twosided, sort, fixed, random):
     index = 1
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -179,7 +179,7 @@ def main(argv):
     strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
     seed(strSeed)
     try:
-        opts, args = getopt.getopt(argv,"heatp:s:n:l:Sfr",["help","empty","author","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
+        opts, args = getopt.getopt(argv,"heatp:s:n:l:Sfr",["help","empty","author=","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -228,10 +228,9 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(author, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
+    create_songbook(author, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
     if random:
         print("Seed used for shuffling: " + strSeed)
-
 
 if __name__=='__main__':
     sys.exit(main(sys.argv[1:]))
