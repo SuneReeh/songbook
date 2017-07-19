@@ -12,15 +12,17 @@ standard = ["arabic", "roman", "Roman", "alph", "Alph","binary","hex","oct"]
 
 
 
-def create_preamble(unf, camp, name, style, logo, empty, twosided):
+def create_preamble(author, name, style, logo, empty, twosided):
     if """.svg""" in logo:          #check if the logo is in svg format
         tempf = open(logo,'r')      #open the file for reading
         s = tempf.read()
         height_k = re.search('height=\"(\d*).(\d*)',s)          #get the height of the picture, using regular expressions
-        height_l = float(re.search('\"(\d*).(\d*)',height_k.group(0)).group(0)[1:])         #get only the height
-
+        height_l = re.search('\"(\d*).(\d*)',height_k.group(0)).group(0)[1:]         #get only the height
+        height_l = float(re.sub("[^0-9]", "", height_l))
+        
         width_k = re.search('width=\"(\d*).(\d*)',s)            #get the width of the picture, using regular expressions
-        width_l = float(re.search('\"(\d*).(\d*)',width_k.group(0)).group(0)[1:])           #get only the width
+        width_l = re.search('\"(\d*).(\d*)',width_k.group(0)).group(0)[1:]           #get only the width
+        width_l = float(re.sub("[^0-9]", "", width_l))
 
         drawing = svg2rlg(logo)         #draw the picture
         file_name = str.split(logo, """.svg""")[0] + """.pdf"""         #replace the .svg part with .pdf
@@ -28,22 +30,14 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
     if not empty:           #if it is anything but empty and a svg file
         tempf = open(name+"Camp_tekst.tex",'w+')            #we make a new tex file to be used for front page
         tempf.write("""\\documentclass[pdftex]{article}""")         #now we start to declare the preamble for that tex file
-        if camp:
-            tempf.write("""\\title{Sangbog for """ + name + """ Camp \\theyear}
-\\author{Ungdommens Naturvidenskabelige Forening}""")           #we write the title for the songbook to the tex file
-        elif unf:
-            tempf.write("""\\title{Sangbog for """ + name + """}
-\\author{Ungdommens Naturvidenskabelige Forening}""")           #we write the title for the songbook to the tex file
-        else:
-            tempf.write("""\\title{Sangbog for """ + name + """ \\theyear}""")          #we write the title for the songbook to the tex file
+        tempf.write("""\\title{Sangbog for """ + name + """ \\theyear}""")
+        if author != "":
+            tempf.write("""\\author{"""+author+"""}""")           #we write the title for the songbook to the tex file
         tempf.write("""\\date{\\today}
 \\begin{document}
 \\pagestyle{empty}
 \\begin{center}""")     #start the document
-        if camp:
-            tempf.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" Camp \\the\\year\n""")        #if it is a camp write the name plus camp
-        else:
-            tempf.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year\n""")         #otherwise just write name
+        tempf.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year\n""")         #otherwise just write name
         tempf.write("""\\end{center}
 
 \\end{document}""")         #end the document
@@ -80,8 +74,8 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
 \\sepindexesfalse
 \\noversenumbers
 \\title{Sangbog """ + name + """ \\the\\year}\n""")           #create preamble
-    if camp or unf:
-        f.write("""\\author{Ungdommens Naturvidenskabelige Forening}\n""")        #and UNF as author if its a camp or UNF songbook
+    if author != "":
+        f.write("""\\author{"""+author+"""}\n""")        #
     f.write("""\\date{\\today}
 %\\addtolength{\\headwidth}{\\marginparsep}
 %\\addtolength{\\headwidth}{\\marginparwidth}
@@ -112,15 +106,17 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
 \\phantom{test}
 \n""")          
         if """.svg""" in logo:
-            scale_height = 736.75 / height_l
-            scale_width = 460.625 / width_l
-            scale = (min(scale_height, scale_width)) - 0.15         #calculate how much the logo can be scaled
+            scale_height = 1122.519685 / height_l
+            scale_width = 818.110236 / width_l
+            scale = (min(scale_height, scale_width))         #calculate how much the logo can be scaled
+            new_height = scale*height_l
+            new_width = scale*width_l
             f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+file_name+"""}}\n""")       #include the logo in the tex file and scale it
         elif """.jpg""" in logo or """.png""" in logo:      #if its not a vector graphic image
             img = Image.open(logo)
             width, height = img.size            #get the height and width of the image
-            scale_height = 736.75 / height
-            scale_width = 520.625 / width
+            scale_height = 1122.519685 / height
+            scale_width = 818.110236 / width
             scale = min(scale_width, scale_height)      #get the smallest of the two 
             if scale < 1:       #if the lowest is less than 1 we need to scale down so it can fit in the page, otherwise we do no scale up
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
@@ -128,9 +124,7 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
         f.write("""\\vspace{.5cm}
 \\begin{center}\n""")
-        if camp:
-            f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+""" Camp\\\\\\the\\year\n\n\\vspace{1cm}\n\\fontsize{35}{40}\\selectfont Sangbog""")        #put the title for the songbook below the logo
-        elif name == "":
+        if name == "":
             f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont \\the\\year\n""")         #If name is empty, only show the year
         else:
             f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+"""\\\\\\the\\year\n""")         #put the title for the songbook below the logo

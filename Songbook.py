@@ -7,7 +7,7 @@ current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, random):
+def create_sangbog(author, name, style, logo, empty, twosided, sort, fixed, random):
     index = 1
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -22,7 +22,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, r
     elif style == "oct":
         style = "octX"
 
-    preamble.create_preamble(unf, camp, name, style, logo, empty, twosided)       #create the preamble of the tex file
+    preamble.create_preamble(author, name, style, logo, empty, twosided)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):
             sang = open("""Sange/"""+fil, 'r')
@@ -161,15 +161,14 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, r
 
 
 def usage():
-    print("Usage: "+sys.argv[0]+" -p <used to define new pagenumbering style> -s <choose pagenumbering style> -n <name of songbook> -l <file for logo, svg or png>")
-    print("Options: -c (if it is a camp) -u (if it is UNF) -e (if you do no want a front page) -S (if you want the songs to be sorted by title) -f (if you want the songs to be sorted by a fixed number) -r (if you want the songs shuffled. Combines with -f to shuffle only the non-fixed songs) -t (twosided print intended for booklets) --seed (specify seed for -r)")
+    print("Usage: "+sys.argv[0]+" -a <used to set the name of the author of the songbook> -p <used to define new pagenumbering style> -s <choose pagenumbering style> -n <name of songbook> -l <file for logo, svg or png>")
+    print("Options: -e (if you do no want a front page) -S (if you want the songs to be sorted by title) -f (if you want the songs to be sorted by a fixed number) -r (if you want the songs shuffled. Combines with -f to shuffle only the non-fixed songs) -t (twosided print intended for booklets) --seed (specify seed for -r)")
 
 def main(argv):
+    author = ""
     name = ""           #name of the songbook
-    camp = False        #if its a camp or not
     style = ""          #the chosen style
     new_style = ""      #the new style to be defined
-    unf = False         #if its for UNF or not
     empty = False       #if you want a front page or not
     twosided = False       #if you want twosided for book print or not
     logo = ""           #the file containing the logo for the front page
@@ -180,7 +179,7 @@ def main(argv):
     strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
     seed(strSeed)
     try:
-        opts, args = getopt.getopt(argv,"hucetp:s:n:l:Sfr",["help","unf","camp","empty","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
+        opts, args = getopt.getopt(argv,"heatp:s:n:l:Sfr",["help","empty","author","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -194,15 +193,12 @@ def main(argv):
             style = arg
         elif opt in ("-n", "--name"):           #option used to set the name
             name = arg
-        elif opt in ("-c","--camp"):            #option used to set the camp and unf variable to true
-            camp = True
-            unf = True
-        elif opt in ("-u","--unf"):             #option used to set both unf to true
-            unf = True
+        elif opt in ("-a", "--author"):         #option used to set both unf to true
+            author = arg
         elif opt in ("-l", "--logo"):           #option used to get a logo on the front page
             logo = arg
         elif opt in ("-e","--empty"):           #option used to not have a front page
-            if logo != "":          #cant be used together with the logo option
+            if logo != "" or author != "":          #cant be used together with the logo option
                 usage()
                 sys.exit()
             else:
@@ -232,7 +228,7 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
+    create_sangbog(author, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
     if random:
         print("Seed used for shuffling: " + strSeed)
 
