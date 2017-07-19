@@ -1,48 +1,99 @@
-\beginsong{Åbningssang}[sr={Melodi:Larger Than Life -- Backstreet Boys}, by={DIKUrevy 2000}]
+\beginsong{Velkommen til revyen}[sr={Melodi:Ricky Martin ``La Vida Loca''}, by={DIKUrevy 2004}]
 
 
 \beginverse
- Dørene er låst og alarmen sat til, sådan!
-Så prøv i bar' at gå, hvis det ' det som i vil., kom An!
-Vi si'r nu Ahr' der
-Der er revyyyyy her.
+[vers]Velkommen til revyen
+Værs'go og sæt jer ned
+Det bedste show i byen
+- og der er jeg sgu' med.
 \endverse
 
 \beginverse
-Og i ved jo, at det kør', gør i ikk'?
-Det her, det er fedt, for det er ikk' fysik
-Sang'ne de er fed', jokes'ne de er ny.
-For I er til DIKU-revy
+Jeg ' ham i altid driller
+som altid bli'r til grin
+- lidt sær, med skæve briller
+og lidt for feminin
 \endverse
 
 \beginverse
-
-Her er vores scene -vi har lavet den selv, årh hvad!
-Fysikerne låner den, men fucker den vel, årh hvad!
-(men) Det' os i hører
-(det) ' derfor, det kører
+[bro]Og hvem ku' eg'ntlig tro,
+at så'n et lang og kikset rær
+ku' ha et alter ego,
+med så hæmningsløst begær,
+men det ' mig, der styrer her
 \endverse
 
 \beginverse
-For de ved jo, at hos dem, går det ikk'
-Hvem kan det mon undre, for de læser fysik.
-Se nu bar' på os, der's revy er syg
-Velkommen til DIKU-revy!
+Hva' så hvad!
+\endverse
+
+\beginverse
+[omkvæd]Showet starter nu
+så Velkommen til revyen
+Vær sød, lad vær' at buh'
+Velkommen til revyen
+Det' slut med mit kompleks
+Velkommen til revyen
+og jeg får sikkert sex
+i aften her til revyen
+Så velkommen til revyen
+\endverse
+
+\beginverse
+[vers]Og sminken, ja den dækker
+to bumser på min tud
+jeg føler mig lidt lækker
+med bruncreme på min hud
+\endverse
+
+\beginverse
+[bro]Og hvem ku' eg'ntlig tro,
+at så'n et lang og kikset rær
+ku' ha et alter ego,
+med så hæmningsløst begær,
+men det ' mig, der styrer her
+\endverse
+
+\beginverse
+Hva' så hvad!
+\endverse
+
+\beginverse
+[omkvæd]Showet starter nu
+så Velkommen til revyen
+Vær sød, lad vær' at buh'
+Velkommen til revyen
+Det' slut med mit kompleks
+Velkommen til revyen
+og jeg får sikkert sex
+i aften her til revyen
+Så velkommen til revyen
 \endverse
 
 
 
 \beginverse
- Yeaheaheah
-Ingen rygning, NEJ!
-Yeaheaheah
-Ingen cola-light!
-Yeaheaheah
-Opfør jer nu bare lidt sejt.
+[bro]Og hvem ku' eg'ntlig tro,
+at så'n et lang og kikset rær
+ku' ha et alter ego,
+med så hæmningsløst begær,
+men det ' mig, der styrer her
 \endverse
 
 \beginverse
- 
+Hva' så hvad!
+\endverse
+
+\beginverse
+[omkvæd]Showet starter nu
+så Velkommen til revyen
+Vær sød, lad vær' at buh'
+Velkommen til revyen
+Det' slut med mit kompleks
+Velkommen til revyen
+og jeg får sikkert sex
+i aften her til revyen
+Så velkommen til revyen
 \endverse
 
 
