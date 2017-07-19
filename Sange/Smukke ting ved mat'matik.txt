@@ -4,10 +4,10 @@ by={Matematikrevyen 2008}
 ,
 cr={}]
 \beginverse
-I synes, at vi ik’ gavner meget
-vor’s fag er teoretisk...
+I synes, at vi ik' gavner meget
+vor's fag er teoretisk...
 \hspace{5em}og det er også sandt
-Men det I ik’ forstår
+Men det I ik' forstår
 er den følelse vi får
 når vi i teori kan løse alt
 løse alt...
@@ -15,37 +15,37 @@ løse alt...
 \endverse
 \beginverse
 Vi regner ikke for at redde verden
-Vi regner ikke for at blive rig’
-Vi elsker bare alt ved mat’matiken
-Det’ den verden, som vi godt vil være i
+Vi regner ikke for at blive rig'
+Vi elsker bare alt ved mat'matiken
+Det' den verden, som vi godt vil være i
 
 \endverse
 \beginverse
 Vi accepterer andre læser andet
-så vi kan læse vores mat’matik
+så vi kan læse vores mat'matik
 og opdage det smukkeste i verden
-brug’ den chance, som I andre aldrig fik
+brug' den chance, som I andre aldrig fik
 
 \endverse
 \beginverse
 Har I aldrig ladet log gå mod uendelig
 og set hvad vej at den nu egentlig gik
 Kan I ikke finde charmen ved en ligning
-Kan I se de smukke ting ved mat’matik
+Kan I se de smukke ting ved mat'matik
 
 \endverse
 \beginverse
 Kom lad os integrere alle udtryk
-og undersøg’ 1/x i nul
+og undersøg' 1/x i nul
 og undersøge alt med asymptoter
 finde ud af, hvad der er i dette hul
 
 \endverse
 \beginverse
-Vor’s sprog det er præcist og meget tyd’ligt
+Vor's sprog det er præcist og meget tyd'ligt
 og misforståelser de sker ej her
-og det er det, der gør, at mat’matikken
-er et fag, der kan nå så meget mer’
+og det er det, der gør, at mat'matikken
+er et fag, der kan nå så meget mer'
 
 \endverse
 \beginverse
@@ -57,10 +57,603 @@ den er måske svær...men den er din ven
 Vil I aldrig lade log gå mod uendelig
 forsøg selv om det bryder din etik
 Kan I ikke finde charmen ved en ligning
-Kan I se de smukke ting ved mat’matik
+Kan I se de smukke ting ved mat'matik
 læs nu blot på jeres fag
 men det sker nu nok en dag
-at I ser\ldots de smukke ting ved\ldots mat’matik\ldots
+at I ser\ldots de smukke ting ved\ldots mat'matik\ldots
 
 \endverse
 \endsong
+
+
+\beginsong{Induktionssang}[sr={Melodi: Kim Larsen og Bellami - Familien skal i skove}
+,
+by={Matematikrevyen 2015}
+,
+cr={}]
+\beginverse
+Det er efterår, jeg skal til Dis-eksamen
+Jeg har læst og læst, helt ifølge planen
+Snupper min cykel – af sted! Nu' der ingen vej tilbage
+Dugen, den er grøn, censor, hun nynner
+Hilser med hånden:
+\emph{Inge-Lise Brønner}
+Til tavlen går jeg hen, det' jo dér, hvor det hele, det begynder
+
+\endverse
+\beginverse
+Eksaminator spørger ind til induktion
+Så jeg si'r: ``Peanos ak-si-om''
+\endverse
+
+\beginverse
+Det har jeg brugt så mange gange før
+Og nu gør jeg det igen
+\emph{Det har han brugt så mange gange før
+Og nu gør han det igen}
+
+\endverse
+\beginverse
+Gælder det for $n$, så gør det ogs' for resten
+\emph{Ingen induktionsstart -- hør nu her, nu stopper festen}
+Hvorfor kan jeg ikk' bar' la' $n$'et flyve ud i det uendelig'?
+\emph{Åh! Dumme dreng!}
+
+\endverse
+\beginverse
+Antag $n$ er 1, for da må det gælde
+Jo, det er da rigtigt, nu skal du bare tælle
+Det kan jeg da sagtens: 1, 2, 3, 4, 5 og ælle, bælle
+\emph{Prøv nu at hold' fokus, og sig os så, min ven
+Hvordan går du fra $n$ til $n + 1$?}
+
+\endverse
+\beginverse
+Det har jo gjaldt for så mange andre $n$
+Så det gør det nok igen
+\emph{Det har jo gjaldt for så mange andre $n$
+Så det gør det nok igen}
+
+\endverse
+\beginverse
+Det er blevet sent, de skal votere
+Så mindes jeg med gru mine dumpekarakterer
+Håber sådan dette bli'r 02, eller måske endda 4
+Døren, den er lukket, gangene er øde
+Var det tilstræk'ligt, får jeg mon det røde?
+Tiden er gået, nu sker det, tilbage i lokalet
+Censor, hun siger:
+\emph{Ja, nu må du gerne gå
+Men vi ka' jo ikk' la' dig bestå}
+
+\endverse
+\beginverse
+Det har de sagt så mange gange før
+Derfor gør de det igen
+\emph{Det har vi sagt så mange gange før
+Derfor gør vi det igen}
+Det har de sagt så mange gange før
+Derfor gør de det igen
+\emph{Det har vi sagt så mange gange før}
+Derfor gør de/\emph{vi} det igen
+
+
+\endverse
+\endsong
+
+
+
+\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!}
+,
+by={ FysikRevy 2016}
+,
+cr={}]
+\beginverse
+		Everything is gaussian
+		Everything you measure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		Nobody likes the poisson distribution
+		Binomial is worse and we need a solution, what's the solution?
+		N is big, P is small, you will see, your data will set you free
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you measure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		(Wooo)
+		3, 2, 1. Go
+\endverse
+\beginverse	
+		Barlow and Taylor, they're just awesome
+		Stat. made easy 'cause everything is Gaussian!
+		Take the limit, N to infinity
+		Convergence is guaranteed thanks to entropy
+\endverse
+\beginverse	
+		I drew some awesome super pretty Gaussians
+		Put my data into histograms
+		while I listen to my favorit' jams
+		Fittin' all the functions, everything is gaussian
+		Changed the axes, got a new view
+		It's gaussian to fit, and it's gaussian to do (It's gaussian to do)
+\endverse
+\beginverse	
+		Nobody likes the poisson distribution
+		Binomial is worse and we need a solution, what's solution?
+		N is big, P is small, you will see, your data will set you free
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you measure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		Bell curves, height of kings
+		We just named two gaussian things
+		Women's shoe size', table lengths
+		You know what's gaussian? EVERYTHING!
+\endverse
+\beginverse	
+		IQ tests, velocities,
+		Number of people's allergies
+		Wolfowitz' and Chi square test
+		gasssian items are the best!
+\endverse
+\beginverse	
+		Bells, Hills, Mills,
+		They're gaussian
+		Socks, Clocks and Rocks
+		They're gaussian!
+		Per Hede-gård
+		He's gaussian!
+		Everything you see, or think, or say
+		Is gaussian!
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you meassure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you meassure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\endsong
+
+
+
+
+\beginsong{Din TBF}[sr={Melodi: Village People - YMCA}
+,
+by={ UNFRevy 2016}
+,
+cr={}]
+\beginverse
+		Du der - du skal være arrangør
+		Jeg sagde du der - hvis du ellers da tør
+		Jeg sagde du der - hvis du vil være med
+		til at gør' en kæmpe forskel
+\endverse
+\beginverse	
+		Du der, hvis du skriver dit navn
+		på den her er-klæring bliver dit savn
+		for naturvi-denskab fuldstændig væk
+		og du bliver en af os nu
+\endverse
+\beginverse	
+		For du skal bare ha' en TBF
+		Så bliver du en del af UNF
+\endverse
+\beginverse	
+		Så kan du logge ind på vores eget system
+		Du kan rode rundt i vores ting
+\endverse
+\beginverse	
+		Ja, du skal bare ha' en TBF
+		Så bliver du en del af UNF
+\endverse
+\beginverse	
+		Men pas på hvad du si'r, hvis du let bliver genert
+		For du bliver jo nok citeret
+\endverse
+\beginverse	
+		Du der, har du fanget det nu?
+		Jeg siger du der, er du klar til at brug'
+		din tid på at sætte deadlines til folk
+		som alligevel bryder dem, og
+\endverse
+\beginverse	
+		har du nu helt styr på hvordan
+		du kontakter forelæser så han
+		siger ja tak så'n at vi kan få fyldt
+		hele vores sæsonprogram
+\endverse
+\beginverse	
+		For du har lige fået din TBF
+		Så nu er du en del af UNF
+\endverse
+\beginverse	
+		Referater er der, formularer med mere,
+		og din pizzafaktor er her
+\endverse
+\beginverse	
+		For du har lige fået din TBF
+		Så nu er du en del af UNF
+\endverse
+\beginverse	
+		Hvis du får brug for hjælp, eller bliver i tvivl
+		kan en QuickPoll redde dit liv
+\endverse
+\beginverse	
+		For du har lige fået din TBF
+		Så nu er du en del af UNF
+\endverse
+\endsong
+
+
+\beginsong{Et helt nyt liv}[sr={Melodi: Disney - A Whole New World}
+,
+by={ UNF Revy 2016}
+,
+cr={}]
+\beginverse
+        Jeg kan vise dig alt
+		Denne strålende verden
+		Hør, frivillig, hvornår har hjertet
+		Sidst bestemt for dig
+\endverse
+\beginverse
+        Jeg kan åbne dit blik
+		mod naturvidenskaben
+		Ja, du fatter det næppe
+		Alt det som vil vise sig
+\endverse
+\beginverse
+		Et helt nyt liv
+		Et nyt fantastisk perspektiv
+		Ingen der siger nej
+		Og standser dig
+		Og siger at vi kun drømmer
+\endverse
+\beginverse
+		Et helt nyt liv
+		En verden som er ny for mig
+		I sort og hvid og blå, kan jeg forstå
+		At viden kan formidles her, med dig
+		(At viden kan formidles her, med dig)
+\endverse
+\beginverse
+		Helt utrolige camps
+		Ingen søvn og kun kaffe
+		Venskaber kan jeg skaffe
+		Mens jeg laver camps med dig
+\endverse
+\beginverse
+		Et helt nyt liv
+		(Tag en kuglepen)
+		Og hundred' tusind ting at gøre
+		(Bare vent der er mere)
+		Jeg er en arrangør
+		Jeg DK kører
+		At vende om, er ingen god ide,
+\endverse
+\beginverse
+        Mailen lukker sig op
+		(Hvor det utroligste kan ske)
+		Hvert projekt fascinerer
+\endverse
+\beginverse
+		Jeg alle foredrag så
+		Der nok at nå
+		Lad mig få et helt nyt liv med dig
+\endverse
+\beginverse
+		Et helt nyt liv
+		Med gratis mad
+		En helt ny vej
+		Som gør mig glad
+		Så tag med mig
+		Til landsmøde
+		For dig og mig
+\endverse
+\endsong
+
+
+\beginsong{Hvad må man (som arrangør)?}[sr={Melodi: Omsen og Momsen - Fy fy skamme}
+,
+by={ UNFRevy 2016}
+,
+cr={}]
+\beginverse
+		Må man flyv’ på første klasse?
+		Må man spise mad på NOMA?
+		Må man hæld’ så meget sprut på delta’r’
+		at de går i koma?
+\endverse
+\beginverse			
+		Må man gamble med vores penge?
+		Må man drukne sig i vodka?
+		Må man bruge Times New Roman
+		når man laver sig en tryksag?
+\endverse
+\beginverse			
+		Næ næ næ næ næ det må vi ikke,
+		fy fy skamme skamme fy fy ah ah
+		slemme slemme fy fy næ næ nix nix
+		slut forbudt - men hva må vi så?
+\endverse
+\beginverse			
+		Må man ændre vores logo?
+		Må man slet’ vores database?
+		Må man pille på en deltager
+		og gå til næste fase?
+\endverse
+\beginverse			
+		Må man bade under sprinkleren
+		som er i lab’ratoriet?
+		Må man sparke til en forelæser
+		nede i auditoriet?
+\endverse
+\beginverse			
+		Næ næ næ næ næ det må vi ikke,
+		fy fy skamme skamme fy fy ah ah
+		slemme slemme fy fy næ næ nix nix
+		slut forbudt - men hva må vi så?
+\endverse
+\beginverse			
+		Må man sove til et for’drag?
+		Må man ryge pot på brandvagt?
+		Må man rode på vores lager
+		eller arrangere en andagt?
+\endverse
+\beginverse			
+		Må man udsmide plakater
+		eller grine af folk der bløder
+		Må man be’ om hemmelig afstemning
+		til alle vores møder
+\endverse
+\beginverse	
+		Næ næ næ næ næ det må vi ikke,
+		fy fy skamme skamme fy fy ah ah
+		slemme slemme fy fy næ næ nix nix
+		slut forbudt - men hva må vi så?
+\endverse
+\beginverse			
+		Må man melde sig til opvask
+		Må passe på sin kasse
+		Må man komm’ med gode input
+		når vi planlægger en masse
+\endverse
+\beginverse			
+		Må man sige fra i tide
+		Må man stille op til DK
+		Må man finde sig en UNF’er
+		som man kan læg’ an på?
+\endverse
+\beginverse			
+		Ja ja ja ja ja det må vi gerne
+		næ sikke fint fint ja ja meget det blir
+		stort stort klap klap fint fint flot flot
+		det var godt - nå det må vi godt
+\endverse
+\endsong
+
+
+\beginsong{Jeg elsker science}[sr={Melodi: Gloria Gaynor - I Will Survive}
+,
+by={ UNFRevy 2016}
+,
+cr={}]
+\beginverse
+Først så var jeg bange, jeg var skrækslagen
+Jeg tænkte, det lød ligeså skrækkeligt som et stræklagen
+Og jeg sad søvnløs hele natten, stirred’ tomt ind i min pejs
+Før hed det naturvidenskab, nu skal man sige “science”
+\endverse
+\beginverse
+Syntes det var dumt - noget rigtigt lort
+Men nu der ingen vej tilbage, “science” er det nye sort.
+Jeg skulle ha sagt noget eller gjort noget, eller gået i protest
+Men sket er sket, og science er jo dansk når det er bedst
+\endverse
+\beginverse
+Det’ ikk’ så slemt, og egentlig nemt
+Syv bogstaver? Det enkelt og bekvemt
+Hvorfor skal man slæbe rundt på gamle danske ord?
+Alle snakker engelsk nu, ligegyldigt hvor de bor.
+\endverse
+\beginverse
+Jeg elsker science, jeg elsker science!
+Fysik, kemi, biologi
+det er jo alt for nice.
+Matematik, geologi
+og medicinsk teknologi, jeg elsker science
+Jeg elsker science!
+\endverse
+\endsong
+
+
+\beginsong{Science Summer Lovin'}[sr={Melodi: Grease - Summer nights/Summer lovin'}
+,
+by={ UNFrevy 2014}
+,
+cr={}]
+\beginverse
+		Dreng: Science Camp - had me a blast
+		Pige: Science Camp - happened so fast
+		Dreng: I met a girl - crazy for meeee
+		Pige: Met a boy - smart as can be
+\endverse
+\beginverse
+		High school days
+		drifting away
+		To, uh oh, those science camps
+\endverse
+\beginverse
+		Well-a, well-a, well-a, huh
+\endverse
+\beginverse
+		Teach me more, teach me more
+		Did you learn a lot?
+		Teach me more, teach me more
+		Is science that hot?
+\endverse
+\beginverse
+	Dreng: She stood by me, up in the lab
+	Pige: My reactions - they went so baad
+	Dreng: I saved her life - before it explod'
+	Pige: He looked good, in his lab coat
+\endverse
+\beginverse
+	Summer science
+	something's begun
+	And oh, oh, I wanna learn more
+\endverse
+\beginverse
+		Well-a, well-a, well-a, huh
+\endverse
+\beginverse
+	Teach me more, teach me more
+	Can you help me with math?
+	Teach me more, teach me more
+	Does it turn out in cash?
+\endverse
+\beginverse
+	Dreng: We were solvin' matrices and more
+	Pige: Studin' Fermat - my head got sore
+	Dreng: We did math - out in the park
+	Pige: We stayed up till it turned dark
+\endverse
+\beginverse
+	Summer science
+	made friends for life
+	and oh, oh, I wanna learn more
+\endverse
+\beginverse
+	Teach me more, teach me more
+	Can we play your new game?
+	Teach me more, teach me more
+	Will it lead you to fame?
+\endverse
+\beginverse
+	Pige: My computer, holding my hand
+	Dreng: summer indoor - didn't get tanned
+	Pige: I made a game - I'm just eighteen
+	Dreng: Well, it's good - you know what I mean
+\endverse
+\beginverse
+	Summer camps,
+	Science is fun
+	And oh, oh, I wanna learn more
+\endverse
+\beginverse
+	Teach me more, teach me more
+	Anything you don't know?
+	Teach me more, teach me more
+	Next year I wanna go!
+\endverse
+\beginverse
+	Pige: Had a party, that's where it ends
+	Dreng: No more science, with my new friends
+	Pige: A week of camp, that was just "wauw"!
+	Dreng: Wonder what she's studying now?
+\endverse
+\beginverse
+	Summer science, blowing my mind
+	But oh, I wanna learn moooore
+\endverse
+\beginverse
+	Teach me more
+	teach me mooooore.
+\endverse
+\endsong
+
+
+
+\beginsong{ScienceCamps}[sr={Melodi: tema fra Pokémon}
+,
+by={ UNFRevy 2016}
+,
+cr={}]
+\beginverse
+		Jeg drager ud på livets vej
+		Jeg har et enkelt mål
+		ScienceCamps afholder jeg
+		Min vilje er af stål!
+\endverse
+\beginverse
+		Starter ud på Chemisty
+		Og ta’r så til Fysik
+		GDC og medico
+		derefter matematik
+\endverse
+\beginverse
+		ScienceCamps, jeg kan klare dem!
+		Multitasking er mit lod
+		4 camps -åhh jeg elsker det
+		bare sommer’n bli’r ved og ved
+\endverse
+\beginverse
+		4 camps, jeg ka’ klare det,
+		det kræver bare koffein
+		Jeg vil bare hjælpe til!
+		ScienceCamps - kan jeg klare dem?
+		Jeg kan klare dem!
+\endverse
+\beginverse
+		Socialt ansvar på nanocamp
+		Kasserer på SDC
+		Fagligt team og så PR
+		Koordinators vilje ske!
+\endverse
+\beginverse
+		Første uge er ovre nu
+		Ser frem til kriminal
+		Astro, Show og CSC
+		Det bliver fænomenalt!
+\endverse
+\beginverse
+		13 camps, jeg skal klare det!
+		måske det er lidt hårdt
+		20 camps,ååh, Discovery!
+		Jeg skal smadre den rekord!
+\endverse
+\beginverse
+		40 camps, jeg har brug for hjælp!
+		Jeg mangler stadig CSI!
+		robodays og futureweek
+		medicin, jeg skal bruge det!
+\endverse
+\beginverse
+		Når presset det bliver alt for stort
+		og jeg går psykisk ned
+		Så tager jeg bare en ekstra camp
+		for jeg bliver ved og ved!
+\endverse
+\beginverse
+		Min psykolog, han siger stop!
+		- min læge ligeså
+		Men jeg mangler biotech
+		Den må jeg lige på!
+\endverse
+\beginverse
+		100 camps, alle skal jeg nå!
+		Det er det jeg duer til
+		1000 camps,åh medicinal
+		Robot og ISSC
+\endverse
+\beginverse
+		Alle camps, åh, jeg er lidt træt
+		Men stemmerne bliver ved og ved
+		Næsteår, der står jeg klar!
+		ScienceCamps, jeg kan klare dem,
+		kan jeg klare dem? ScienceCamps
+\endverse
+\endsong
+
+

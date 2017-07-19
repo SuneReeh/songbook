@@ -1,5 +1,6 @@
-\beginsong{I Morgen er Verden Vor}[by={},
-sr={Melodi:Tomorrow belongs to me - Cabaret}
+\beginsong{I Morgen er Verden Vor}[sr={Melodi: Tomorrow belongs to me - Cabaret}
+,
+by={ DIKURevy 1998}
 ,
 cr={}]
 \beginverse
@@ -23,19 +24,18 @@ Der tastes og kigges
 på skærmene - se!
 Det spirer, hvor Haarder han sår.
 Men snart hvisker alle
-BRUG  E D B
+BRUG E D B
 I MORGEN ER VERDEN VOR!
 \endverse
 \beginverse
 ÅH EDB, EDB,
 DU ER DET ORD,
-DER FØRER OS FREM MOD DE ÅR,
+DER FØRER OS FREM MOD DE åR,
 HVOR VERDEN BLI'R STYRET AF DATALOG'R
 I MORGEN ER VOR
 I MORGEN ER VOR
 I MORGEN ER VERDEN VOR!!
-\endverse
-\beginverse
+
 \tiny{Gå direkte til 43!}
 \endverse
 \endsong
