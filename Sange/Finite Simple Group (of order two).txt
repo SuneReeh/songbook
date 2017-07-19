@@ -2,7 +2,7 @@
 ,
 by={The Klein Four Group}
 ,
-cr={}]
+cr={}]\label{sang:FiniteSimpleGroup}
 \beginverse
 The path of love is never smooth
 But mine's continuous for you
@@ -68,4 +68,7 @@ And by corollary, this shows you and I to be
 Purely inseparable. Q.E.D.
 
 \endverse
+
+\smallskip
+{\scriptsize Additivt isomorf med nummer \ref{sang:EnRingeHistorie}.}
 \endsong

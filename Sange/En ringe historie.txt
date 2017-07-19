@@ -2,7 +2,7 @@
 ,
 by={Matematikrevyen 2012}
 ,
-cr={}]
+cr={}]\label{sang:EnRingeHistorie}
 \beginverse
 Betragt en lille abelsk ring -- bemærk, den kommuter'.
 Den har netop ét 0 og ét 1 og ikke mer'.
@@ -13,4 +13,7 @@ Se, nu går den hen til $\mathbb C$ og indleder med ``Hej''.
 Ingen ville lege med en ring der' triviel,
 så den måtte indgå automorfisk med sig selv.
 \endverse
+
+\smallskip
+{\scriptsize Additivt isomorf med nummer \ref{sang:FiniteSimpleGroup}.}
 \endsong
