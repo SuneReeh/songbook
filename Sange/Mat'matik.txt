@@ -6,7 +6,7 @@ cr={}]
 \beginverse
 Vektorfunktioner i tre dimensioner
 skal opereres med curl og divergens.
-$\nabla^2$ gir koldsved på panden;
+$\nabla$\textsuperscript{2} gir koldsved på panden;
 planintegraler er en pestilens.
 \endverse
 

@@ -1,4 +1,4 @@
-\beginsong{Spas i Waders}[sr={Melodi:Hit'n'Hide - Space Invaders}
+﻿\beginsong{Spas i Waders}[sr={Melodi:Hit'n'Hide - Space Invaders}
 ,
 by={Biorevy 2012}
 ,

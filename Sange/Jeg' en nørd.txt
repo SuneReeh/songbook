@@ -1,4 +1,4 @@
-﻿\beginsong{Jeg' en nørd}[sr={Melodi: tema fra Pokémon}
+﻿\beginsong{Jeg' en nørd}[sr={Melodi: tema fra Pokémon}%83
 ,
 by={FysikRevy 2010}
 ,
