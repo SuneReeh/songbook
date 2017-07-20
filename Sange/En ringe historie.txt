@@ -15,5 +15,5 @@ så den måtte indgå automorfisk med sig selv.
 \endverse
 
 \smallskip
-{\scriptsize Additivt isomorf med nummer \ref{sang:FiniteSimpleGroup}.}
+{\noindent\scriptsize Additivt isomorf med nummer \ref{sang:FiniteSimpleGroup}.}
 \endsong

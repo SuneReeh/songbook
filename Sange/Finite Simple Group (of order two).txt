@@ -70,5 +70,5 @@ Purely inseparable. Q.E.D.
 \endverse
 
 \smallskip
-{\scriptsize Additivt isomorf med nummer \ref{sang:EnRingeHistorie}.}
+{\noindent\scriptsize Additivt isomorf med nummer \ref{sang:EnRingeHistorie}.}
 \endsong
