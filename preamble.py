@@ -135,11 +135,11 @@ def create_preamble(author, name, style, logo, empty, twosided):
 \\raggedright
 \\songpos{0}
 \\spenalty=50
-\\vvpenalty=100
-\\vcpenalty=100
-\\cvpenalty=100
-\\ccpenalty=100
-\\interlinepenalty=200
+\\vvpenalty=200
+\\vcpenalty=200
+\\cvpenalty=200
+\\ccpenalty=200
+\\interlinepenalty=500
 \\setlength{\parindent}{1cm}
 \\begin{songs}{}
 \\setcounter{songnum}{0}
