@@ -1,4 +1,4 @@
-\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
+﻿\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
 ,
 by={ MatematikRevy 2013}
 ,
@@ -47,7 +47,7 @@ Wowyeahhh
 \endverse
 
 \beginverse
-$2\,\times\,\emph{
+$2\,\times\,$\emph{
 Denne sang den er til dig
 Åh Jan Philip Solovej
 Når funktionerne de ændrer sig
