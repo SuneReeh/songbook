@@ -1,4 +1,4 @@
-\beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sømænd er glade for piger}
+﻿\beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sømænd er glade for piger}
 ,
 by={DIKUrevy 2009}
 ,
@@ -25,7 +25,7 @@ for de lærer jo ikke en pind
 
 \endverse
 \beginverse
-Når de koder i Java, C\# eller Ada ...
+Og koder i Java, C\# eller Ada ...
 
 \endverse
 \beginverse
