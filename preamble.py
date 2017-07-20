@@ -140,6 +140,7 @@ def create_preamble(author, name, style, logo, empty, twosided):
 \\cvpenalty=200
 \\ccpenalty=200
 \\interlinepenalty=500
+\\versesep=12pt plus 24pt minus 3pt
 \\setlength{\parindent}{1cm}
 \\begin{songs}{}
 \\setcounter{songnum}{0}
