@@ -1,4 +1,4 @@
-\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!} %11
+﻿\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!} %11
 ,
 by={ FysikRevy 2016}
 ,
@@ -56,7 +56,7 @@ cr={}]
 		IQ tests, velocities,
 		Number of people's allergies
 		Wolfowitz' and Chi square test
-		gasssian items are the best!
+		gaussian items are the best!
 \endverse
 \beginverse	
 		Bells, Hills, Mills,
