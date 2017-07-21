@@ -1,4 +1,4 @@
-\beginsong{Smukke ting ved mat'matik}[sr={Melodi: Pocahontas - Colours of the Wind}
+﻿\beginsong{Smukke ting ved mat'matik}[sr={Melodi: Pocahontas - Colours of the Wind}%22
 ,
 by={ MatematikRevy 2008}
 ,

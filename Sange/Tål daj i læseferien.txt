@@ -1,4 +1,4 @@
-﻿\beginsong{Tål daj i læseferien}[sr={Melodi: 12 days of Christmas}
+﻿\beginsong{Tål daj i læseferien}[sr={Melodi: 12 days of Christmas}%45
 ,
 by={Mona Holm og Marianne Bangsø, Julerevy 1987}
 ,
