@@ -1,4 +1,4 @@
-\beginsong{Biologiske Våben}[by={MBKrevy 2012}
+\beginsong{Biologiske Våben}[by={MBKrevy 2012}%19
 ,
 sr={Melodi: Nordahl Grieg - Kringsav av fiender}
 ,

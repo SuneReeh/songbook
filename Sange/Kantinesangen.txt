@@ -1,4 +1,4 @@
-﻿\beginsong{Kantinesangen}[sr={Melodi:Når en peberkagebager...}, by={DIKUrevy 1975}]%33
+﻿\beginsong{Kantinesangen}[sr={Melodi:Når en peberkagebager...}, by={DIKUrevy 1975}]%36
 \beginverse
 Når som ny kantinebørge
 du skal for det hele sørge

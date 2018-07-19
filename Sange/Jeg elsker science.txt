@@ -1,8 +1,4 @@
-\beginsong{Jeg elsker science}[sr={Melodi: I Will Survive, Gloria Gaynor}
-,
-by={ UNFRevy 2016}
-,
-cr={}]
+\beginsong{Jeg elsker science}[sr={Melodi: I Will Survive, Gloria Gaynor},by={ UNFRevy 2016},cr={}]%59
 \beginverse
 Først så var jeg bange, jeg var skrækslagen
 Jeg tænkte, det lød ligeså skrækkeligt som et stræklagen

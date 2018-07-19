@@ -1,4 +1,4 @@
-﻿\beginsong{Når en humanist adderer}%31
+﻿\beginsong{Når en humanist adderer}%34
 [sr={Melodi: Peberkagebagesangen}
 ,
 by={\TKET{}}

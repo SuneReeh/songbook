@@ -1,4 +1,4 @@
-\beginsong{Pest}
+\beginsong{Pest}%72
 [sr={Melodi:Aladdin - Prins Ali}
 ,by={MBKrevy 2015}
 ]
