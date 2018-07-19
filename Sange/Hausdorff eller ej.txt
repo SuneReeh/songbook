@@ -1,0 +1,54 @@
+\beginsong{Hausdorff eller ej}[sr={Melodi: Tommy Seebach - Krøller eller ej}, by={Matematikrevyen 2018}]
+\beginverse
+    Jeg har et rum, det stort,
+    med mange åbne mængder.
+    Jeg har et rum, det flot
+    og meget algebraisk.
+    Jamen mit er bare finer' end dit er.
+    Okay, måske, men hvem gider ting der er nemt,
+    når man kan lave geometri
+    med sin topologi.
+\endverse
+
+\beginverse\emph{
+    Hausdorff eller ej --
+    vi elsker vores rum.
+    Stiforbundet eller ej --
+    vi elsker jeres rum.}
+    Hvad end der er givet --
+    om det har en metrik, er tælleligt,
+    og sammenhængende.
+    Om de' store eller små,
+    er Hausdorff eller ej.
+\endverse
+
+\beginverse
+    Hvad end der er givet --
+    om det har en metrik, er tælleligt,
+    og sammenhængende.
+    Om de' grove eller fin',
+    er Hausdorff eller ej.
+\endverse
+
+\beginverse\emph{
+    Længe leve alle rum.
+}\endverse
+
+\beginverse\emph{
+    Åbne mængder eller ej --
+    Vi elsker vores rum.
+    Quasikompakt eller ej --
+    vi elsker jeres rum.}
+    Hvad end der er givet --
+    om det har en metrik, er tælleligt,
+    og sammenhængende.
+    Om de' store eller små,
+    er Hausdorff eller ej.
+\endverse
+
+\beginverse
+    Længe leve alle rum
+    om de er Hausdorff eller ej.
+\endverse
+
+\endsong

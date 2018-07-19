@@ -1,0 +1,65 @@
+\beginsong{Vi skal kode i C}[sr={Melodi: Det brune punktum - Ud i det blå}, by={DIKUrevy 2018}]
+\beginverse
+    Nu er det sommer.
+    Pawel er væk indtil AD næst' år
+    så skal der kodes lidt,
+    men i hvad? Ja, prøv bare at gæt'.
+\endverse
+
+\beginverse
+    Ikke i Java ---
+    det er \emph{objekt}-tivt noget juks,
+    (Og) typerne i F\# 
+    gør det svært at få noget gjort.
+    Giv mig heller' unions, structs og void pointers.
+\endverse
+
+\beginverse\emph{
+    Vi skal kode i C,
+    der hvor alting kan ske
+    lad os se hvor beskidt det kan bli'.
+    Selv allokere, segfaulte mere
+    fordi der ik' var noget at free.
+}\endverse
+
+\beginverse
+    Jeg kører koden,
+    imod al forventning går det lidt langsomt.
+    Skal der inlines nu,
+    eller skal der en makro til?
+    Optimerer? Nej, vi præprocesserer!
+\endverse
+
+\beginverse\emph{
+    Vi skal kode i C,
+    der hvor alting kan ske
+    lad os se hvor beskidt det kan bli'.
+    \emph{\#definere \texttt{MAX\_INT}} til fire
+    for så kan den bruges som $\pi$.
+}\endverse
+
+\beginverse\emph{
+    Vi skal kode i C,
+    der hvor alting kan ske
+    lad os se hvor beskidt det kan bli'.
+    Dereferere en \emph{\texttt{void*}} mere
+    for at se hvad der ligger deri.
+}\endverse
+
+\beginverse\emph{
+    Vi skal kode i C,
+    der hvor alting kan ske
+    lad os se hvor beskidt det kan bli'.
+    Inkrementere det vi definerer
+    når \emph{\texttt{i = i++ + i;}}
+}\endverse
+
+\beginverse\emph{
+    Vi skal kode i C,
+    der hvor alting kan ske
+    lad os se hvor beskidt det kan bli'.
+    Omgå compiler, når nu at den fejler
+    med lidt inline assembleri.
+}\endverse
+
+\endsong

@@ -1,0 +1,75 @@
+\beginsong{Lav plagiat}[sr={Melodi: Alletiders nisse - Glad i bad}, by={DIKUrevy 2018}]
+\beginverse
+Når du læser til eksamen må du have styr på tiden
+ka' du ikke pensum får du smæk
+men hvis blot du blander din \LaTeX{} med andre mensk'ers viden
+tryller vi bekymringerne væk
+\endverse
+
+\beginverse
+Så stop nu med at spekulere
+og gå i gang med at kopiere
+\endverse
+
+\beginverse\emph{
+Lav plagiat, syng ju-bi-du-æh
+Det er bare hygge og lidt fjol
+Lav plagiat, syng ju-bi-du-æh
+så får du ganske sikkert tolv
+}\endverse
+
+\beginverse\emph{
+Skrive af og skrive af og skrive ju-bi-du-æh
+Hvorfor ha' endnu en ked'lig dag?
+Det er så nemt at skrive af
+}\endverse
+
+\beginverse
+Med et studiejob og fredagsbar så kniber det med tiden
+Sku' du ik' ha' skrevet en rapport?
+Du er knap og nap begyndt men deadline var for længe siden
+Her er tricket til at få det gjort
+\endverse
+
+\beginverse
+Når du skal TeX'e, hvorfor knokle,
+hvis du kan sidde ned og google?
+\endverse
+
+\beginverse\emph{
+Lav plagiat, \ldots
+}\endverse
+
+\beginverse\emph{
+Skrive af \ldots
+}\endverse
+
+%Når man skriver af så skal man slette sine referencer,
+%det er ganske helt almindeligt pli
+%Du kan adde en figur for at forøge dine chancer
+%Det må ikke ligne en kopi
+
+%Og hvis du knækker under prøven
+%Så hiv beviser ud af røven
+
+\beginverse
+Se champignonskyer, der tårner sig op
+Huder der sortner som blæk
+Og strålingen smelter din feeeede krop
+I morgen er verden væk
+\endverse
+
+\beginverse
+Og hvis der mangler lidt i sangen
+Så plagier du bare en anden
+\endverse
+
+\beginverse\emph{
+Lav plagiat, \ldots
+}\endverse
+
+\beginverse\emph{
+Skrive af \ldots
+}\endverse
+
+\endsong
