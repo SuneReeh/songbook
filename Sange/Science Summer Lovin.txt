@@ -1,4 +1,4 @@
-\beginsong{Science Summer Lovin'}[sr={Melodi: Summer nights\/Summer lovin' fra Grease}%34
+\beginsong{Science Summer Lovin'}[sr={Melodi: Summer nights\/Summer lovin' fra Grease}
 ,
 by={ UNFrevy 2014}
 ,
