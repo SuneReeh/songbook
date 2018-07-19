@@ -1,4 +1,4 @@
-\beginsong{En Veganer}[sr={Melodi:Tøsedrengene: ``Indianer''}, by={Biorevy 2015}]
+\beginsong{En Veganer}[sr={Melodi: Tøsedrengene - Indianer}, by={Biorevy 2015}]
 \beginverse
    
    

@@ -18,7 +18,7 @@ For vi elsker ren logik (klap-klap)
 algebra og statistik (klap-klap)
 Alt der er komplekst
 Analyse, vækst
-det er her vi har det bedst (klap-klap)
+det er her vi har det bedst
 \endverse
 
 \beginverse
@@ -35,7 +35,7 @@ For vi elsker ren logik (klap-klap)
 algebra og statistik (klap-klap)
 Alt der er komplekst
 Analyse, vækst
-det er her vi har det bedst (klap-klap)
+det er her vi har det bedst
 \endverse
 
 

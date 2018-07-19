@@ -1,4 +1,4 @@
-﻿\beginsong{$\lambda$-kalkylen}%21
+﻿\beginsong{$\lambda$-kalkylen}
 [sr={Melodi: The Llama Song}
 ,
 by={DIKUrevy 2011}

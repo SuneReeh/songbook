@@ -1,7 +1,7 @@
 ﻿\beginsong{Når en humanist adderer}%31
 [sr={Melodi: Peberkagebagesangen}
 ,
-by={TÅGEKAMMERET}
+by={\TKET{}}
 ,
 cr={}]
 \beginverse
@@ -38,13 +38,13 @@ før det bliver relevant!
 \endverse
 
 \beginverse
-Men hos os fra TÅGEKAMMERET
+Men hos os fra \TKET{}
 giver regning ingen jamren,
 vores ligninger gi’r mening
 også med socialt aspekt.
 Vi beregner øl i kasser
 med potens og inderklasser,
-og vor KA\$\$ har altid styr på,
+og vor \KASS{} har altid styr på,
 hvem der skylder hvad for hvad.
 \endverse
 

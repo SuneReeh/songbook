@@ -1,7 +1,7 @@
 ﻿\beginsong{Hjemmebrænderiet}%55
 [sr={}
 ,
-by={De Gyldne Løver -- Variant: TÅGEKAMMERET}
+by={De Gyldne Løver -- Variant: \TKET{}}
 ,
 cr={}]
 \beginverse

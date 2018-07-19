@@ -1,4 +1,4 @@
-﻿\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!} %11
+﻿\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!}
 ,
 by={ FysikRevy 2016}
 ,

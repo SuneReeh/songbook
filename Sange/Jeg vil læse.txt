@@ -1,4 +1,4 @@
-\beginsong{Jeg vil læse *}[sr={Melodi:Regnvejrsdag i november}
+﻿\beginsong{Jeg vil læse .*}[sr={Melodi:Regnvejrsdag i november}
 ,
 by={DIKUrevy 2008}
 ,

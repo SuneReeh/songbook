@@ -1,72 +1,68 @@
 ﻿\beginsong{Tål daj i læseferien}[sr={Melodi: 12 days of Christmas}%45
 ,
-by={Mona Holm og Marianne Bangsø, Julerevy 1987}
+by={Mona Holm og Marianne Bangsø, \TKET{}s Julerevy 1987}
 ,
 cr={}]
 \beginverse
-Husk: der skal skåles efter 4. vers -- hver gang!
+\noindent \emph{For $n=0,\dotsc,10$:}
+    På den ($n+1$)'te dag i læseferien sagde jeg til mig selv:
+    \texttt{l[n::-1]}
 \endverse
 
 \beginverse
-På den 1. da’ i læseferien sa’ jeg til mig selv:
-Der er god tid, jeg pjækker i dag.
+\noindent \emph{For $n=11$:}
+    På den tolvte dag i læseferien sagde jeg til mig selv:
+    \texttt{l[11::-1][0:11]}
+    Så'n gik tiden, jeg dumped' i dag.
 \endverse
 
 \beginverse
-På den 2. da’ i læseferien\ldots
-Mat’matik er trist.
+\noindent \emph{Listen \emph{$\texttt{l}$} i teksten er givet som følger.}
+$\texttt{l[0]}\colon$ Der er god tid, jeg pjækker i dag.
 \endverse
 
 \beginverse
-På den 3. da’ i læseferien\ldots
-Jeg er træt.
+$\texttt{l[1]}\colon$ Mat’matik er trist.
 \endverse
 
 \beginverse
-På den 4. da’ i læseferien\ldots
-Tror jeg går på druk.
+$\texttt{l[2]}\colon$ Jeg er træt.
 \endverse
 
 \beginverse
-På den 5. da’ i læseferien\ldots
-Åh, tømmermænd.
+$\texttt{l[3]}\colon$ Tror jeg går på druk. -- \emph{Skål!}
 \endverse
 
 \beginverse
-På den 6. da’ i læseferien\ldots
-Der er fest i aften.
+$\texttt{l[4]}\colon$ Åh, tømmermænd.
 \endverse
 
 \beginverse
-På den 7. da’ i læseferien\ldots
-Hvor er min bog nu.
+$\texttt{l[5]}\colon$ Der er fest i aften.
 \endverse
 
 \beginverse
-På den 8. da’ i læseferien\ldots
-Der' film i TV.
+$\texttt{l[6]}\colon$ Hvor er min bog nu.
 \endverse
 
 \beginverse
-På den 9. da’ i læseferien\ldots
-Savner mine venner.
+$\texttt{l[7]}\colon$ Der' film i TV.
 \endverse
 
 \beginverse
-På den 10. da’ i læseferien\ldots
-Mon jeg kan nå det.
+$\texttt{l[8]}\colon$ Savner mine venner.
 \endverse
 
 \beginverse
-På den 11. da’ i læseferien\ldots
-Nu skal der læses.
+$\texttt{l[9]}\colon$ Mon jeg kan nå det.
 \endverse
 
 \beginverse
-På den 12. da’ i læseferien\ldots
-Gud, det' i morgen.
-\hspace{0em}\phantom{M}\vdots
-Mat’matik er trist.
-Så'n gik tiden -- jeg dumped' i dag!
+$\texttt{l[10]}\colon$ Nu skal der læses.
 \endverse
+
+\beginverse
+$\texttt{l[11]}\colon$ Gud, det' i morgen.
+\endverse
+
 \endsong
