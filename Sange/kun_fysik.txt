@@ -1,0 +1,61 @@
+\beginsong{Kun fysik}[sr={Melodi: Disney - Rigtige mænd}, by={FysikRevy 2009}]
+
+  \beginverse
+    Danmarks statsminister\\
+    vil ha' lærde mænd.\\
+    Ikke humanister,\\
+    der er nok af dem!\\
+    Modesnak det er slet intet værd!\\
+    Og fodboldfacts kan inden brug'!\\
+    Det' fysik! Kun fysik!\\
+    I skal ku'!
+  \endverse
+
+  \beginverse
+    Hurtig're end Pauli\\
+    Skal I regne kvant.\\
+    Altid skarp og saglig,\\
+    Søg hvad der er sandt.\\
+    Brug af Schaums og TI-89\\
+    Det er for svagt, så hør mig nu!\\
+    Det' fysik!\\
+    Kun fysik!\\
+    I skal ku'!
+  \endverse
+
+  \beginverse
+    Ebbe Sand laver aldrig fejl!\\
+    Skal jeg virk'lig pertubere?\\
+    Det med mat'matikken faldt mig aldrig nemt.\\
+    Der flækkede jeg igen en negl!\\
+    Mon Beckham han kan transformere?\\
+    Ku' jeg dividere, var det ik' så slemt.
+  \endverse
+
+  \beginverse\emph{
+    \emph{Kun fysik!} I skal ku' regne på kvantefelter!\\
+    \emph{Kun fysik!} Og integrere enhver funktion!\\
+    \emph{Kun fysik!} Og I skal læse til hjernen smelter!\\
+    Før I kan få en forskningsmillion!
+  }\endverse
+
+  \beginverse
+    Eksamen om en uge.\\
+    Det vil aldrig gå.\\
+    Natten må I bruge,\\
+    Hvis I vil bestå.\\
+    I' en dum, ubrug'lig, ynk'lig flok.\\
+    Så drop ud, I dumper nu!\\
+    Det' fysik!\\
+    Kun fysik!\\
+    I skal ku'!
+  \endverse
+
+  \beginverse\emph{
+    \lrep\emph{Kun fysik!} I skal ku' regne på kvantefelter!\\
+    \emph{Kun fysik!} Og integrere enhver funktion!\\
+    \emph{Kun fysik!} Og I skal læse til hjernen smelter!\\
+    Før I kan få en forskningsmillion!\rrep
+  }\endverse
+
+\endsong

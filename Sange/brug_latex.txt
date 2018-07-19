@@ -1,0 +1,45 @@
+\beginsong{Brug \LaTeX}[sr={Melodi: Anders Matthesen - Spørg om hjælp}, by={Morten Jensen, \TKET{}, 2015}]
+
+
+  \beginverse\emph{
+    Brug \LaTeX, når du skriver ind.
+    For \TeX{} er smart, og \TeX{} er smukt, det luner i mit sind.
+    Du må ikke bruge Word, for det er noget bøvl,
+    og hvis du gør alligevel, så får du satme høvl!
+  }\endverse
+
+  \beginverse
+    Jeg fik engang en aflevering fra en sød student.
+    Han havde potentiale til at blive verdenskendt;
+    men han afleverede et dokument i Word,
+    og det betød, hans bachelor den ej blev gennemført.
+  \endverse
+
+  \beginverse
+    Og Lone, hun var også ganske dygtig, da hun kom.
+    Hun var klog, og hun var sød, dog sku’ man brug’ kondom,
+    og hendes løse læber så jeg ikk’ som et problem;
+    men da hun tegned’ cosinus i Paint, fik jeg eksem!
+  \endverse
+
+  \beginverse\emph{
+    Med \LaTeX, alt er som en leg;
+    men bru’r du Maple, Word og Paint, så vil jeg straffe dig.
+    Personalet her på stedet ved godt, hvad de skal,
+    når nogen ikke bru’r \LaTeX, så gi’r de mig et kald.
+  }\endverse
+
+  \beginverse
+    Jørgen, han var også fin, trods han var humanist.
+    Han vidste alt om didaktik, ja det var ganske vist;
+    men hvis man bruger PowerPoint til slides, bli’r man til grin.
+    De fandt ham snart med tasken fuld af ryge-heroin.
+  \endverse
+
+  \beginverse\emph{
+    Brug \LaTeX. Lad nu vær’ at piv’,
+    og kan du ikk’, så få det lært, for det kan red’ dit liv.
+    Og ellers ku’ det være, at du fik besøg af mig
+    Så ender du måske i grøften på din livets vej.
+  }\endverse
+\endsong

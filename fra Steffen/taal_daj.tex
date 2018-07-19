@@ -1,0 +1,74 @@
+\begin{song}{Tål daj' i læseferien}
+  {} % Bruges ikke, lad stå blank
+  {12 Days of Christmas} % Titel, Kunstner - eks.: "Jutlandia, Kim Larsen". Hvis sangen er på sin egen melodi, brug da \SBOrgMel.
+  {Mona Holm \& Marianne Bangsø} % Navnet på forfatteren. Undlad kaldenavne. Brug gerne TBF. Brug "&" frem for "og". Hvis forfatter er ukendt, lad da stå tom.
+  {\TKET{}s Julerevy, 1987} % Eks. "Fysikrevy, 2010" eller "2010"
+  {\NotCCLIed} % Lad stå som den er
+
+  \let\oldSBVerseCnt\theSBVerseCnt
+
+  \renewcommand{\theSBVerseCnt}{$\texttt{l[\oldSBVerseCnt]}$}
+  \begin{SBVerse}
+    Der er god tid, jeg pjækker i dag.
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Mat’matik er trist
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Jeg er træt
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Tror jeg går på druk -- \emph{Skål!}
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Åh, tømmermænd!
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Der er fest i aften
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Hvor er min bog nu?
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Der' film i TV
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Savner mine venner
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Mon jeg kan nå det?
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Nu skal der læses!
+  \end{SBVerse}
+
+  \begin{SBVerse}
+    Gud, det' i morgen!
+  \end{SBVerse}
+
+  \renewcommand{\theSBVerseCnt}{$n<11$}
+
+  \begin{SBVerse}
+    På den ($n+1$)'te dag i læseferien sagde jeg til mig selv:\\
+    \texttt{l[n::-1]}
+  \end{SBVerse}
+
+  \renewcommand{\theSBVerseCnt}{$11$}
+
+  \begin{SBVerse}
+    På den tolvte dag i læseferien sagde jeg til mig selv:\\
+    \texttt{l[11::-1][0:11]}\\
+    Så'n gik tiden, jeg dumped' i dag.
+  \end{SBVerse}
+
+\end{song}

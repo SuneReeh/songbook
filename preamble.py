@@ -59,6 +59,7 @@ def create_preamble(author, name, style, logo, empty, twosided):
 \\usepackage[utf8]{inputenc}
 \\DeclareUnicodeCharacter{FEFF}{}
 \\usepackage[english,danish]{babel}
+\\usepackage{tket}
 %\\usepackage[english]{babel}
 \\usepackage{amssymb}
 \\usepackage{stmaryrd}

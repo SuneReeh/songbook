@@ -1,0 +1,69 @@
+\beginsong{Se min kode}[sr={Melodi: Gunnar Nyborg-Jensen - Se min kjole}, by={Jacob Johannsen og Erik Søe Sørensen, \TKET{}s Julerevy, 2003}]
+
+  \beginverse
+    Se min kode - den er struktureret,
+    alt hvad jeg skriver, det er smukt som den.
+    Det er fordi jeg altid indenterer,
+    og fordi at Emacs er min ven
+  \endverse
+
+  \beginverse
+    Se min kode – den er let at læse,
+    alt hvad jeg skriver, det er ligesom den.
+    Det er fordi jeg altid kommenterer,
+    og fordi /* er min ven
+  \endverse
+
+  \beginverse
+    Se min kode – den vil kompilere,
+    alt hvad jeg skriver oversættes nemt.
+    Det er fordi jeg skriver simpel kode,
+    og fordi gcc den er min ven
+  \endverse
+
+  \beginverse
+    Se min kode – er i mange filer,
+    alt hvad jeg skriver, det kan findes nemt.
+    Det er fordi jeg altid fragmenterer,
+    og fordi at make den er min ven
+  \endverse
+
+  \beginverse
+    Se min kode – den er uden fejl i,
+    alt hvad jeg skriver, det er lissom den.
+    Det er fordi, jeg altid er forsigtig,
+    og fordi GDB den er min ven.
+  \endverse
+
+  \beginverse
+    Se min kode – den kan let genskabes,
+    alt hvad jeg ændrer, rettes let igen.
+    Det er fordi, jeg altid tager backup,
+    og fordi CVS den er min ven.
+  \endverse
+
+  \beginverse
+    Se min kode - den er fri som fuglen,
+    alt hvad jeg ejer, det er frit som den.
+    Det er fordi, jeg elsker Open Software,
+    og fordi GPL den er min ven.
+  \endverse
+
+  \beginverse
+    Se min kode – den er årtotusindsikret,
+    alt hvad jeg skriver, det er årtotusindsikret som den.
+    Det er fordi jeg passer på, der aldrig kommer overflow,
+    og fordi alt andet ville være fjollet, simpelthen.
+  \endverse
+
+  \beginverse
+    Se min kode – den er tem’lig fjollet,
+    alt hvad jeg skriver, det er lissom den.
+    Det er fordi jeg ofte går i selvsving,
+    og fordi revyen er min ven.
+  \endverse
+
+  \beginverse
+    Semikolon, sangen den er slut nu;
+  \endverse
+\endsong
