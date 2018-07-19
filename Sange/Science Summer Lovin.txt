@@ -1,6 +1,6 @@
 \beginsong{Science Summer Lovin'}[sr={Melodi: Summer nights\/Summer lovin' fra Grease}
 ,
-by={ UNFrevy 2014}
+by={UNFrevy 2014}
 ,
 cr={}]
 \beginverse

@@ -1,4 +1,4 @@
-\beginsong{Matrix\-repræsenta\-tions\-teoremet}[sr={Melodi: Gloria Gaynor - I will survive}, by={Christian Bladt Brandt, \TKET{}, 2011}]%58
+\beginsong{Matrix\-repræsenta\-tions- teoremet}[sr={Melodi: Gloria Gaynor - I will survive}, by={Christian Bladt Brandt, \TKET{}, 2011}]%58
 
   \beginverse
     Hvis man skal transformere, altså lineært,

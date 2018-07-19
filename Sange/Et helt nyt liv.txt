@@ -1,6 +1,6 @@
 \beginsong{Et helt nyt liv}[sr={Melodi: A Whole New World, Disney} %18
 ,
-by={ UNF Revy 2016}
+by={UNF Revy 2016}
 ,
 cr={}]
 \beginverse

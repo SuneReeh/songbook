@@ -14,7 +14,7 @@ Fail!
 \endverse
 \beginverse
 Æg og alligator-lambda
-Java har slet ikke lambda
+Java har nu fået lambda\footnotemark
 Lambda i .NET, Omega
 Lambda, lambda
 Fail!
@@ -54,6 +54,10 @@ det var en perversion
 Jeg har skrevet kode fyldt med map og head og tail
 Nu vil jeg blive kandidat
 og gå ned med fail.
-
 \endverse
+
+\smallskip
+{\noindent\scriptsize \addtocounter{footnote}{-1}\footnotemark Ændret efter Java 8. Oprindelig tekst: ``Java har slet ikke lambda''.}
 \endsong
+
+

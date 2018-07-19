@@ -14,7 +14,7 @@
   \endverse
 
   \beginverse
-    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} (x4)
+    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} ($\times 4$)
   \endverse
 
   \beginverse
@@ -27,7 +27,7 @@
   \endverse
 
   \beginverse
-    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} (x4)
+    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} ($\times 4$)
   \endverse
 
   \beginverse
@@ -40,6 +40,6 @@
   \endverse
 
   \beginverse
-    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} (x4)
+    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} ($\times 4$)
   \endverse
 \endsong

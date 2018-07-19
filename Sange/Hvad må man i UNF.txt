@@ -1,6 +1,6 @@
 \beginsong{Hvad må man (som arrangør)?}[sr={Melodi: Fy fy skamme, Omsen og Momsen}
 ,
-by={ UNFRevy 2016}
+by={UNFRevy 2016}
 ,
 cr={}]
 \beginverse

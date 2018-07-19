@@ -1,6 +1,6 @@
 ﻿\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!}
 ,
-by={ FysikRevy 2016}
+by={FysikRevy 2016}
 ,
 cr={}]
 \beginverse

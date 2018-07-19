@@ -1,6 +1,6 @@
 ﻿\beginsong{Fasebal i Kvanteland}[sr={Melodi: Julebal i Nisseland} 
 ,
-by={ FysikRevy 2004}
+by={FysikRevy 2004}
 ,
 cr={}]
 \beginverse

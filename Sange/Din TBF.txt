@@ -1,6 +1,6 @@
 \beginsong{Din TBF}[sr={Melodi: YMCA, Village People}
 ,
-by={ UNFRevy 2016}
+by={UNFRevy 2016}
 ,
 cr={}]
 \beginverse

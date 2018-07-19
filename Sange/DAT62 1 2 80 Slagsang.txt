@@ -1,6 +1,6 @@
 \beginsong{DAT62(1/2)80 Slagsang}[sr={Melodi:Fy Fy Skamme Skamme - McEwan og Ingerslev}
 ,
-by={ Fra en eller anden rustur}
+by={Fra en eller anden rustur}
 ,
 cr={}]
 \beginverse
