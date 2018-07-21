@@ -1,6 +1,6 @@
 ﻿\beginsong{$\alpha\beta$-sangen}[sr={Melodi: I en kælder sort som kul}
 ,
-by={Tenna Schaldemose og Tine Nyeng, Majrevy 2004}
+by={Tenna Schaldemose og Tine Nyeng, \TKET{}s Majrevy 2004}
 ,
 cr={}]
 \beginverse
