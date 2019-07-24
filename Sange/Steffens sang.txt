@@ -1,0 +1,11 @@
+\beginsong{Steffens sang}[sr={}
+,
+by={Teatergruppen Skråplan, CSC 2018}
+,
+cr={}]
+\beginverse
+Hvis der er nogen der kan,
+så er det bare Steffen --
+han er the man!
+\endverse
+\endsong

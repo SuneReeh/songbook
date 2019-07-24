@@ -1,0 +1,86 @@
+\beginsong{Svarvers til 42/43}%44
+[by={KU's revypublikum},
+sr={Melodi:Tomorrow belongs to me - Cabaret}
+,
+cr={}]
+\beginverse
+[Fysikere:]
+Se champignonskyer der tårner sig op.
+Se huder der sortner som blæk.
+Og strålingen smelter din fede krop.
+I morgen er væk!
+I morgen er væk!
+I morgen er verden væk!
+\endverse
+
+\beginverse
+[Dataloger:]
+Se fysikerspirer, der spiller så smart,
+kopierer os gang efter gang.
+Gymnasiet det venter på jer, et sted.
+Så skriv dog en sang!
+Så skriv dog en sang!
+Så skriv dog jer's egen sang!
+\endverse
+
+\beginverse
+[Fysikere:]
+$E_{\mu\nu}=8\pi GT_{\mu\nu}$
+Vor lyskegle er bedst og størst.
+Hør visdommens ord fra FysikRevy^{TM}.
+Vort svarvers kom først!
+Vort svarvers kom først!
+Vi skrev vores svarvers først!
+\endverse
+
+\beginverse
+[Dataloger:]
+Hør har I slet intet at skrive om selv.
+I prøver at byde os trods.
+I har jo ej andet stof, har I vel?
+I synger om os!
+Har sketches om os!
+Alt handler jo kun om os!
+\endverse
+
+\beginverse
+[Matematikere:]
+Nu kan det vær' nok, tag at hold' jeres kæft.
+Sæt hel're revyen igang.
+Og bøj jer i støvet for Mat'matik.
+Vort studie kom først!
+Vort studie er størst!
+Vort studie blev grundlagt først!
+\endverse
+
+\beginverse
+[MBK'er:]
+Vi kloner din mor og din far og din gud.
+Forbedrer hvert eneste gen.
+Og når vi er færdig', står du for skud.
+I morgen er ens!
+I morgen er ens!
+I morgen er alle ens!
+\endverse
+
+\beginverse
+[Biologer:]
+En invasiv art, det er hvad Bio er,
+for vort studie er blevet størst.
+Vi lærer om livet og tager det.
+For I er de næst',
+på vores dødslist'!
+Dissekerer alt til sidst!
+\endverse
+
+\beginverse
+[DSB:]
+Åh DSB, DSB, du er det tog
+der fører os frem mod det sted
+hvor verden bli'r styret af lokofør'.
+I morgen er hvor?
+I morgen er hvor?!
+I morgen er toget hvor? (Aalborg!)
+\endverse
+
+\endsong
