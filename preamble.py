@@ -92,6 +92,7 @@ def create_preamble(author, name, style, logo, empty, twosided):
         f.write("""""" + style + """\n""")
     else:
         f.write("""\\newcommand{\\countstyle}{""" + style + """}
+\\newcommand{\power}{^}
 \\input{page_numbering}
 \\pagenumbering{shiftedpage}\n""")
     f.write("""\\begin{document}

@@ -1,4 +1,5 @@
-﻿\beginsong{Papirsklip}[sr={}
+﻿\beginsong{Papirsklip}%91
+[sr={}
 ,
 by={Kim Larsen}
 ,

@@ -1,0 +1,62 @@
+\beginsong{Ode til kode}%92
+[sr={Melodi: Kim Larsen -- Papirsklip}
+,
+by={DIKYrevy 2019}
+,
+cr={}]
+\beginverse
+Selvom kantinen bliver kold og forladt
+Sidder jeg fanget bag skærmen i nat
+Koder fortvivlet, og deadline er straks
+Binær collage af de grimmeste hacks
+\endverse
+
+\beginverse
+Troede at det var $O(\log n)$
+(men) løkken kør' igen og igen
+Kløjes i mængden af iteration
+(så) falmer håbet om termination
+\endverse
+
+\beginverse
+Livet er kort
+Løkken er lang
+Til evig og altid, kør' mit program
+\endverse
+
+\beginverse
+Troede at det var gruppe(op)gav'
+Skulle have sat forventningen lav,
+De andre forsvandt da nat blev til dag
+forladt i kantinen, alene tilbag'
+\endverse
+
+\beginverse
+Livet er kort\ldots
+\endverse
+
+
+\beginverse
+$O({n\power n})$
+$O(n\power n)$
+$O(n\power n)$
+\endverse
+
+\beginverse
+Selvom kantinen bliver kold og forladt
+Sidder jeg fanget bag skærmen i nat
+koder fortvivlet, og mangler rapport
+om løkker der kører, til vi alle går bort
+\endverse
+
+\beginverse
+Livet er kort\ldots
+\endverse
+
+\beginverse
+Livet er kort
+Løkken er lang
+Satans til møglort den bunke af slam
+\endverse
+
+\endsong
