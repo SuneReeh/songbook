@@ -1,0 +1,45 @@
+\beginsong{Editorhyldestsangen}[sr={Melodi: Leonard Cohen - Hallelujah}, by={Sean Geggie, \TKET{}, 2013}]
+
+  \beginverse
+  [Duet: en ``duel'' mellem Vim-fan og Emacs-fan]
+  \endverse
+
+  \beginverse
+    \emph{E:} Der findes kun én editor,
+    \emph{V:} og vi, der koder, ved hvorfor.
+    \emph{E:} Så lad os ære den med serenade.
+    \emph{E:} Kan køre i en terminal
+    \emph{E:} kan customizes, er du gal?
+    \emph{V:} Dens workflow i ethvert sprog gør os glade!
+  \endverse
+
+  \beginverse
+    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} (x4)
+  \endverse
+
+  \beginverse
+    \emph{E:} Syntax highlighting til \LaTeX.
+    \emph{V:} Den starter på et nano-sek.
+    \emph{E:} Dens udvalg af extensions er ej dårligt.
+    \emph{V:} I systemkrav er den ikke grisk.
+    \emph{V:} Kan være på en floppy disk!
+    \emph{E:} Med E-Lisp kan den udvides vilkårligt.
+  \endverse
+
+  \beginverse
+    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} (x4)
+  \endverse
+
+  \beginverse
+    \emph{E:} Fungerer som en IDE.
+    \emph{E:} Kan checke mails og lave te.
+    \emph{V:} Er ik’ et op’rativsystem, det’ tyd’ligt!
+    \emph{E:} Dens interface er ikke galt
+    \emph{E:} - hvem fa’n vil rediger’ modalt?!
+    \emph{V:} Dens genvejstaster gi’r dig ikke slidgigt!
+  \endverse
+
+  \beginverse
+    \emph{Brug kun $\displaystyle\begin{cases}\text{Vim!} \\ \text{Emacs!}\end{cases}$} (x4)
+  \endverse
+\endsong
